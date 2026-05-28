@@ -70,4 +70,5 @@ This repository is made for Python beginners to practice and improve logical thi
 ---
 
 ## 👨‍💻 Author
-Python Practice Learning Repository
+Biswaprakash Dash
+python Programmer.
